@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+/* .login{
+    padding: 30px;
+    border-radius: 10px;
+    width: 50vw;
+    margin: 20vh auto;
+    border: 1px solid black;
+} */
+.button-center{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.menu a{
+    text-decoration: none;
+    color: blue;
+}
+.login-wrapper{
+    width: 60vw;
+    height: 50vh;
+    margin: 50px auto;
+    border: 1px solid rgb(186, 186, 186);
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.gambar-login{
+    width: 50%;
+    border-right: 1px solid rgb(178, 178, 178);
+}
+.login{
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dash-img{
+    width: 50vw;
+    margin: 10px auto;
+}
